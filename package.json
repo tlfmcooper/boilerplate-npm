@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ali Koné",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,8 +10,8 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tlfmcooper/boilerplate-npm"
-	},
-	
-	"author": "Ali Koné"
+		"url": "https://github.com/tlfmcooper/boilerplate-npm.git"
+	}
+
 }
+
